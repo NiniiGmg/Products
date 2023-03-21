@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin:0px;
+    padding: 20px;
+}
+
+.title{
+    width: 100%;
+    padding: 20px;
+    color: #4B4B4B;
+    padding-left: 70px;
+    font-size: 30px;
+}
+ .category{
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     padding:20px;
+ }
+
+ span{
+    margin: 10px;
+ }
+ 
+.tx{
+    color:  #4B4B4B80;
+}
+
+.r1{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+}
+
+.r2{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.square{
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 50px;
+    height: 420px;
+    width: 350px;
+    margin: 60px;
+    padding: 30px;
+} 
+
+h1, p{
+    color: #4B4B4B;
+}
+
+.basket{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.chair{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.sofa{
+    display: flex;
+    justify-content: center;
+}
+
+.lamp{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.drawer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 60px;
+}
+
+.sofa2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 60px;
+}
